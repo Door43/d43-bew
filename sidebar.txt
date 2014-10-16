@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bew:home|Door43 (bew)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bew|d43-bew repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bew/archive/master.zip|d43-bew.zip]]
+
+**Recent Changes**
+{{changes>ns = bew}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bew|Ethnologue data]]
+
